@@ -1,3 +1,5 @@
+# https://gold3neye.github.io/resume/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Gold3neye/resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
